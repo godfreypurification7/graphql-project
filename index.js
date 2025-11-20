@@ -83,5 +83,3 @@ const { url } = await startStandaloneServer(server, {
 
 console.log("Server ready at", url);
 
-// https://www.youtube.com/watch?v=5199E50O7SI 45
-// https://www.apollographql.com/docs/apollo-server/getting-started
